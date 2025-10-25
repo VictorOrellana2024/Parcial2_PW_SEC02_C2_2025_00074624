@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Paola Ramírez", "gender": "F", "balance": 1850.75, "isActive": true,  "email": "paola.ramirez@example.com" },
+  { "id": 2, "name": "Diego Torres", "gender": "M", "balance": 980.50,  "isActive": false, "email": "diego.torres@example.com" },
+  { "id": 3, "name": "Natalia Cruz", "gender": "F", "balance": 4500.00, "isActive": true,  "email": "natalia.cruz@example.com" },
+  { "id": 4, "name": "Fernando Rivas", "gender": "M", "balance": 150.25, "isActive": true,  "email": "fernando.rivas@example.com" },
+  { "id": 5, "name": "Andrea Molina", "gender": "F", "balance": 730.40,  "isActive": false, "email": "andrea.molina@example.com" },
+  { "id": 6, "name": "Héctor Domínguez", "gender": "M", "balance": 6100.00,"isActive": true, "email": "hector.dominguez@example.com" },
+  { "id": 7, "name": "Valeria Méndez", "gender": "F", "balance": 875.90, "isActive": true,  "email": "valeria.mendez@example.com" },
+  { "id": 8, "name": "Rafael Cabrera", "gender": "M", "balance": 50.00,  "isActive": false, "email": "rafael.cabrera@example.com" }
+]

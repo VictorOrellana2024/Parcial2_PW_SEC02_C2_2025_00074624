@@ -1,0 +1,14 @@
+{
+  "name": "parcial2_pw_sec02_c2_2025_00074624",
+  "version": "1.0.0",
+  "description": "Solución examen práctico II - Programación Web (Node & Express)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
